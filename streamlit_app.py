@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-sorted_data = pd.read_csv('/workspaces/blank-app/data/data/sorted_data.csv')
+sorted_data = pd.read_csv('data/sorted_data.csv')
 category_customer_count = pd.read_csv('/workspaces/blank-app/data/data/category_customer_count.csv')
 
 
